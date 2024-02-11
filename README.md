@@ -1,4 +1,4 @@
-  <img src="./img/2023-07-29 10-44-32.JPG" title="Kadosh" alt="Kadosh" width="1600" height="180"/>
+  <img src="./img/2023-07-29 10-44-32.JPG" title="Kadosh" alt="Kadosh" width="1600" height="220"/>
 
 <h1>
 Привет!<img src="https://emojis.slackmojis.com/emojis/images/1643514958/9845/meow_heart.png?1643514958" width="25"/>
